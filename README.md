@@ -16,8 +16,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](images/screenshot.png)
 
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/Serebroinna/qr-code)
+- Live Site URL: (https://serebroinna.github.io/qr-code/)
 
 ## My process
 ### Built with
