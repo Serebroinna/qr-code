@@ -1,0 +1,27 @@
+
+
+body{
+    background-color:#D5E1EF;
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+}
+
+.card{
+    text-align: center;
+    width: 320px;
+    height: 499px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    padding: 16px 16px;
+    box-shadow: 5px 5px 18px rgba(0, 0, 0, 0.1);
+    font-family: "Outfit", serif;
+}
+
+#img_qr{
+    width: 100%;
+    border-radius: 10px;
+}
