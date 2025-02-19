@@ -4,10 +4,10 @@ body{
     background-color:#D5E1EF;
     display: flex;
     flex-direction: column;
-    gap: 3rem;
     justify-content: center;
     align-items: center;
-    margin: 50px;
+    height: 100vh;
+    gap: 3rem;
 }
 
 .card{
